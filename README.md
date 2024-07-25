@@ -29,6 +29,7 @@ bash NetAudit.sh
     Made with ❤️  by @mkdirlove
 
 Select an audit option:
+
 1. Network Scan
 2. Vulnerability Assessment
 3. Compliance Check
@@ -43,6 +44,7 @@ Select an audit option:
 12. SSL/TLS Scan
 13. Generate Report
 14. Exit
+
 Enter choice [1-14]: 
 
 ```
